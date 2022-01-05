@@ -1,11 +1,16 @@
 {
-"companyName": "DefaultCompany",
-"productName": "webgl-file-select",
+"companyName": "13g_studio",
+"productName": "City scene - editor",
+"productVersion": "0.1",
 "dataUrl": "Online-city-scene-editor.data.unityweb",
-"asmCodeUrl": "Online-city-scene-editor.asm.code.unityweb",
-"asmMemoryUrl": "Online-city-scene-editor.asm.memory.unityweb",
-"asmFrameworkUrl": "Online-city-scene-editor.asm.framework.unityweb",
-"TOTAL_MEMORY": 134217728,
+"wasmCodeUrl": "Online-city-scene-editor.wasm.code.unityweb",
+"wasmFrameworkUrl": "Online-city-scene-editor.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
 }
